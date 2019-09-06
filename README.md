@@ -6,7 +6,7 @@ Atualmente sendo revisado como:
 
 ## Uma nova forma de análise bibliométrica – NAILS (Network Analysis Interface for Literature Studies): Procedimentos essenciais para pesquisadores brasileiros
 
-por: Freire-Silva, J., Miranda, R. Q e Candeias, A.L.B.
+por: Jadson Freire-Silva., Rodrigo de Queiroga Miranda e Ana Lúcia Bezerra Candeias
 
 Submetido na Revista Brasileira de Meio Ambiente
 
@@ -26,7 +26,7 @@ Currently being under revision as
 
 ## A new form of bibliometric analysis – Nails (Network Analysis Interface for Literature Studies): Essential procedures for Brazilian researchers
 
-by: Freire-Silva, J., Miranda, R. Q and Candeias, A.L.B.
+by: Jadson Freire-Silva., Rodrigo de Queiroga Miranda and Ana Lúcia Bezerra Candeias
 
 From the article submited in the Brazilian Journal of the Environment
 
